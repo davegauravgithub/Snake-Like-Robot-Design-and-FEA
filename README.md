@@ -87,10 +87,6 @@ The original archive supplied for this project contains native CAD part files an
 
 This repository documents a **design, simulation discussion, and FEA study**. It does **not** establish that a physical prototype was fabricated or experimentally tested, nor does it provide executable MATLAB/ANSYS models. Images originate from the supplied research paper. Some background design figures in the paper cite earlier literature; consult the paper's figure captions and references before reuse outside this project.
 
-## Suggested portfolio summary
-
-> Contributed to a 2020 biomimetic robotics research study on the design and finite element analysis of a modular snake-like robot. The project explored lateral-undulation locomotion, modular CAD architecture, ABS material selection, and ANSYS-based stress/deformation assessment of structural components.
-
 ## Citation
 
 Heganna, S., Mali, A., Jha, S., & Dave, G. S. (2020). *Design and Analysis of Snake Like Robot*. Research paper supplied with this repository.
