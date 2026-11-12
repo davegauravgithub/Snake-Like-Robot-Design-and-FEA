@@ -83,10 +83,6 @@ ANSYS Workbench 16.0 was used for geometry inspection, tetrahedral meshing, load
 
 The original archive supplied for this project contains native CAD part files and IGES exports. They are **not yet included in this starter repository**; see [`cad/README.md`](cad/README.md) for the inventory and upload instructions.
 
-## Project scope and limitations
-
-This repository documents a **design, simulation discussion, and FEA study**. It does **not** establish that a physical prototype was fabricated or experimentally tested, nor does it provide executable MATLAB/ANSYS models. Images originate from the supplied research paper. Some background design figures in the paper cite earlier literature; consult the paper's figure captions and references before reuse outside this project.
-
 ## Citation
 
 Heganna, S., Mali, A., Jha, S., & Dave, G. S. (2020). *Design and Analysis of Snake Like Robot*. Research paper supplied with this repository.
